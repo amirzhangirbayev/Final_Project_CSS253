@@ -1,1 +1,3 @@
-# Final_Project_CSS253
+# Visualizing Games on Steam
+## Overview
+This project aims to map popular games on Steam in a way that feels intuitive to both gamers and developers. This is accomplished by collecting the lists of games of many steam users, comparing those lists, and turning that information into a network diagram. All code is written in python and the visualization is done using Gephi.
