@@ -27,7 +27,7 @@ This project aims to map popular games on Steam in a way that feels intuitive to
    * Outline color: custom [255,255,255]
    * The rest is default...
 
-2. Edges: 
+3. Edges: 
 
    * Show Edges: +
    * Thickness: 0.1
@@ -38,3 +38,8 @@ This project aims to map popular games on Steam in a way that feels intuitive to
    * Opacity: 50
    * Curved: +
    * The rest is default...
+### Overlap parameters
+1. Filters:
+
+   * Edges:
+      * Edge weight: 1500-3923
