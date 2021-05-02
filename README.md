@@ -13,13 +13,28 @@ This project aims to map popular games on Steam in a way that feels intuitive to
 4. Nodes -> Label Size -> Ranking -> Degree: 1) min size 1; 2) max size: 3
 ### Preview
 1. Presets: Default
-2. Node Labels
-
-
-4. And another item.  
+2. Node Labels:  
    
-   Some text that should be aligned with the above item.
+   * Show Labels: +
+   * Font: Arial Rounded MT Bold
+   * Font Style: Plain
+   * Size: 2
+   * Proportional size: +
+   * Color: custom [255,255,255]
+   * Shorten Label: -
+   * Max characters: 30
+   * Outline size: 0
+   * Outline color: custom [255,255,255]
+   * The rest is default...
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+2. Edges: 
+
+   * Show Edges: +
+   * Thickness: 0.1
+   * Rescale weight: +
+   * Min. rescaled weight: 0.1
+   * Max. rescaled weight: 1.0
+   * Color: source
+   * Opacity: 50
+   * Curved: +
+   * The rest is default...
