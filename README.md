@@ -15,4 +15,11 @@ This project aims to map popular games on Steam in a way that feels intuitive to
 1. Presets: Default
 2. Node Labels
 
-  * Unordered sub-list. 
+
+4. And another item.  
+   
+   Some text that should be aligned with the above item.
+
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
