@@ -5,3 +5,12 @@ This project aims to map popular games on Steam in a way that feels intuitive to
 ### 10,000 users
 ![](Visualization/images/final_graph.png)
 ![](Visualization/images/overlaps.png)
+## Gephi parameters
+1. Modularity: 0.5
+2. Layout: Circle Pack Laout
+
+⋅⋅⋅Hierarchy1: Modularity class
+⋅⋅⋅Hierarchy2: Degree
+
+3. Nodes -> Size -> Ranking -> Count: 1) min size: 5; 2) max size: 20
+4. Nodes -> Label Size -> Ranking -> Degree: 1) min size 1; 2) max size: 3
