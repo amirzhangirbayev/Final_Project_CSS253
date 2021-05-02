@@ -47,4 +47,4 @@ This project aims to map popular games on Steam in a way that feels intuitive to
 ## Credits
 This is a final project for the CSS 253 course done by [Amir Zhangirbayev](https://github.com/amirzhangirbayev)
 
-Examiner: Zhangir Rayev
+Examined by Zhangir Rayev
